@@ -1,0 +1,9 @@
+{
+  "name": "FILES-ORGANIZE",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
